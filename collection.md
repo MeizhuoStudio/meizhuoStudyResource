@@ -13,7 +13,7 @@ lamp搭建:https://blog.bensonwu.cn/2016/08/09/Centos7%E4%B8%8A%E6%90%AD%E5%BB%B
 webhook自动部署:https://blog.yangxitian.cn/2016/05/28/centOS%E4%B8%8B%E5%88%A9%E7%94%A8webhook%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%EF%BC%88PHP%EF%BC%89/
 微信支付http://blog.csdn.net/we_phone/article/details/69824924
 #项目
-轻会议https://github.com/Jayin/LightMeeting
+轻会议https://github.com/Jayin/LightMeeting  
 趣组队https://github.com/lyt123/Fungrouping
 
 
