@@ -19,6 +19,7 @@ http://blog.csdn.net/we_phone/article/details/69824924<br>
 # 项目
 轻会议https://github.com/Jayin/LightMeeting<br>
 趣组队https://github.com/lyt123/Fungrouping<br>
+教务系统https://github.com/lyt123/ScheduleSystem
 
 
 
